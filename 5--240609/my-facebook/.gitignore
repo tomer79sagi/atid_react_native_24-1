@@ -1,0 +1,74 @@
+# Node modules
+node_modules/
+
+# Expo files
+.expo/
+.expo-shared/
+
+# Visual Studio Code files
+.vscode/
+
+# Log files
+*.log
+
+# Yarn files
+yarn-error.log
+yarn-debug.log
+
+# Dependency directories
+/ios/Pods/
+/android/.gradle/
+/android/app/build/
+/android/build/
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.orig
+
+# Package files
+*.tgz
+
+# React Native / Expo specific files
+*.expo
+*.expo.*
+*.expo-shared
+
+# Metro bundler
+.expo/cache
+.expo/stories
+
+# Build artifacts
+build/
+dist/
+*.expo-shared
+
+# Environment variables
+.env
+
+# Coverage reports
+coverage/
+
+# Static files
+public/static/
+
+# Expo update files
+update.lock
+.expo/web/debug/.expo-lock
+.expo/web/production/.expo-lock
+
+# Babel and ESLint cache
+.babelrc.cache
+.eslintcache
+.cache/
