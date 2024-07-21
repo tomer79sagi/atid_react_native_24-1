@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211543636815",
+    "project_id": "my-facebook-f6c76",
+    "storage_bucket": "my-facebook-f6c76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211543636815:android:329ed0a5e20bf30444a33a",
+        "android_client_info": {
+          "package_name": "com.tomersagi.myfacebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSfw2QeteLnsu4zkRvwerK7loVPXzEu9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
